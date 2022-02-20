@@ -8,4 +8,4 @@ collection of my DIY eurorack projects and mods
  - [Rotating Audio Recorder](https://github.com/othmar52/eurorack-rotating-audio-recorder)
  - [Blazing Baton](https://github.com/othmar52/blazing-baton-eurorack)
  - [KORG Mini Kaoss pad MOD](https://github.com/othmar52/eurorack-kaosspad)
- - Arturia Beatstep pro Breakout
+ - [Arturia Beatstep pro Breakout](https://github.com/othmar52/beatstep-pro-breakout)
