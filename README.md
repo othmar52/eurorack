@@ -9,3 +9,4 @@ collection of my DIY eurorack projects and mods
  - [Blazing Baton](https://github.com/othmar52/blazing-baton-eurorack)
  - [KORG Mini Kaoss pad MOD](https://github.com/othmar52/eurorack-kaosspad)
  - [Arturia Beatstep pro Breakout](https://github.com/othmar52/beatstep-pro-breakout)
+ - [AKAI Synthstation 25 CV MOD for eurorack](https://github.com/othmar52/akai-synthstation25-cv-mod)
